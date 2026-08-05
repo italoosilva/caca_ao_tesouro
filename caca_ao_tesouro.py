@@ -37,6 +37,7 @@ def main():
       pygame.display.update()
     # serve para atualizar a tela do jogo caso aja uma interação
 
+#Pedro Join the Server
 
 
 
